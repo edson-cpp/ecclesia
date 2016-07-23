@@ -11,8 +11,13 @@ TARGET = Ecclesia
 TEMPLATE = app
 
 SOURCES += main.cpp\
-        desktop.cpp
+        desktop.cpp \
+    diocese.cpp
 
-HEADERS  += desktop.h
+HEADERS  += desktop.h \
+    diocese.h
 
-FORMS    += desktop.ui
+FORMS    += desktop.ui \
+    diocese.ui
+
+QMAKE_CXXFLAGS += -std=gnu++14

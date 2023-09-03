@@ -1,0 +1,28 @@
+TAREFAS
+Implementar sistema de controle de bugs: http://webissues.mimec.org/downloads
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
+	*** CGS Standard ***
+
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
+	*** Versão 0.1 ***
+*********************************************************************************************************************
+//Criar sistema de replicação de pedidos e boletos com envio automático
+
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
+	*** Versão 0.2 ***
+*********************************************************************************************************************
+
+cwe@4382@bra
+senha ftp
+
+Trabalho profissionalmente com desenvolvimento de software desde dezembro de 2003.
+Comecei aprender a programar em 1997 com basic mas somente em 2003 consegui uma oportunidade de trabalho.
+Iniciei o estudo e fiz alguns cursos de Linux, fiz a certificação Conectiva, não consegui trabalho na área e minha certificação expirou.
+Após isto trabalhei com diversas linguagens de programação como VB6, VFP6 e 9, Java, VBA, Delphi, bancos de dados xBase, MySQL, Postgre, MSSQL.
+Em 2013 fiz outro curso na Elaborata, agora de C++, queria aprender esta linguagem mas não consegui levar adiante pois não consegui uma oportunidade.
+Hoje estou desenvolvendo um software por conta em QT com C++ para praticar.
+Gostaria de ter uma oportunidade para desenvolver meus conhecimentos em C++.
+Estou cursando C++ na Fundação Bradesco, um curso gratuito pela internet mas bem interessante.
+
+Obrigado
+Edson Aguiar 

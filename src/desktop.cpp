@@ -1,9 +1,11 @@
 #include "desktop.h"
 #include "ui_desktop.h"
-#include "diocese.h"
+#include "forms/cad/comunid.h"
 #include <QMdiSubWindow>
 #include <QStyle>
 #include <QDesktopWidget>
+#include <QtGui>
+#include <QtCore>
 
 Desktop::Desktop(QWidget *parent) :
     QMainWindow(parent),
@@ -16,11 +18,6 @@ Desktop::Desktop(QWidget *parent) :
 Desktop::~Desktop()
 {
     delete ui;
-}
-
-void Desktop::on_actionDiocese_triggered()
-{
-    loadSubWindow(new Diocese(this));
 }
 
 void Desktop::loadSubWindow(QWidget *widget)
@@ -36,4 +33,14 @@ void Desktop::loadSubWindow(QWidget *widget)
         )
     );
     window->show();
+}
+
+void Desktop::on_actionComunid_triggered()
+{
+    loadSubWindow(new Comunid(this));
+}
+
+void Desktop::on_actionTeste_triggered()
+{
+    ui->statusbar->showMessage("Hello");
 }

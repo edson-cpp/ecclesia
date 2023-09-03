@@ -2,7 +2,7 @@
 #define DESKTOP_H
 
 #include <QMainWindow>
-#include "diocese.h"
+#include "forms/cad/comunid.h"
 
 namespace Ui {
 class Desktop;
@@ -17,8 +17,12 @@ public:
     ~Desktop();
 
 private slots:
-    void on_actionDiocese_triggered();
+    void on_actionComunid_triggered();
     void loadSubWindow(QWidget *widget);
+
+    void on_actionTeste_triggered();
+
+    void on_actionDiocese_triggered();
 
 private:
     Ui::Desktop *ui;

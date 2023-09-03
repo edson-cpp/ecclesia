@@ -1,0 +1,22 @@
+	*** Versão 0.1 ***
+********************************************************
+//SQL - Criar a base de dados já com o cliente consumidor.
+//BUG 0001 - 19/01/2008 - 19/01/2008 - Frente de caixa: Ao pressionar o -(menos) rapidamente 2 vezes ou mais o foco sai da grade.
+//NEW - 03/03/2008 - Integridade referencial
+//UPD - 16/03/2008 - Baixar Créditos - Reestruturação, tratamento de erros e controle de transações, MiniAjuda.
+//BUG - 0010
+	Data de registro: 04/11/2009
+	Data de correção: 04/11/2009
+	Data de publicação: 04/11/2009
+	Nível crítico: Medio
+	Versão afetada: 0.7.13
+	Versão de correção: 0.7.14
+	Onde ocorre: Sistema
+	Descrição: Não cadastra estação de trabalho
+	Ocorrência: Ocorre ao instalar estação de trabalho
+	Solução: Corrigida verificação da existência da estação no servidor
+
+Nível crítico:
+Alto: Provoca ou pode provocar perda e/ou gravação incorreta de dados com ou sem erros aparentes.
+Médio: Provoca erros no sistema mas não provoca perda de dados.
+Baixo: Não provoca erros aparentes e não provoca perda de dados.

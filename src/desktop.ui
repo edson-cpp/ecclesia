@@ -34,25 +34,19 @@
      <string>Cadastros</string>
     </property>
     <addaction name="actionDiocese"/>
-    <addaction name="actionPar_quia"/>
-    <addaction name="actionComunidade"/>
+    <addaction name="actionTeste"/>
    </widget>
    <addaction name="menuCadastros"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
   <action name="actionDiocese">
    <property name="text">
-    <string>&amp;Diocese</string>
-   </property>
-  </action>
-  <action name="actionPar_quia">
-   <property name="text">
-    <string>&amp;Paróquia</string>
-   </property>
-  </action>
-  <action name="actionComunidade">
-   <property name="text">
     <string>&amp;Comunidade</string>
+   </property>
+  </action>
+  <action name="actionTeste">
+   <property name="text">
+    <string>Teste</string>
    </property>
   </action>
  </widget>

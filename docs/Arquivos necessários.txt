@@ -1,0 +1,7 @@
+ARQUIVOS NECESSÁRIOS PARA RODAR SISTEMA
+libgcc_s_dw2-1.dll
+libstdc++-6.dll
+libwinpthread-1.dll
+Qt5Cored.dll
+Qt5Guid.dll
+Qt5Widgetsd.dll

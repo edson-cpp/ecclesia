@@ -12,12 +12,14 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         desktop.cpp \
-    diocese.cpp
+    database/database.cpp \
+    forms/cad/comunid.cpp
 
 HEADERS  += desktop.h \
-    diocese.h
+    database/database.h \
+    forms/cad/comunid.h
 
 FORMS    += desktop.ui \
-    diocese.ui
+    forms/cad/comunid.ui
 
 QMAKE_CXXFLAGS += -std=gnu++14
